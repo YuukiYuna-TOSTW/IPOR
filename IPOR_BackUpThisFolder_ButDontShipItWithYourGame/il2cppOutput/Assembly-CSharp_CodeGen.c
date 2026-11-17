@@ -7,6 +7,8 @@
 
 
 
+extern void FPSDisplay_Update_m8B6E3C4F736611F6AD8236A39F60249C3441A5FA (void);
+extern void FPSDisplay__ctor_m0B1B2DD1E7437715DA0BFB0AF80202D2A575E1E0 (void);
 extern void RobotStepAnimator_Start_mDAFD58306A87F302A5A6FE04F67AD861961CB319 (void);
 extern void RobotStepAnimator_SaveOriginalMaterials_mA59CF8DBEF3C939C97A009708602534B1379FC98 (void);
 extern void RobotStepAnimator_OnMouseDown_m842619E008DBD4FCE6B0D6735DFE20694F4D895A (void);
@@ -284,8 +286,10 @@ extern void U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B0
 extern void U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (void);
-static Il2CppMethodPointer s_methodPointers[277] = 
+static Il2CppMethodPointer s_methodPointers[279] = 
 {
+	FPSDisplay_Update_m8B6E3C4F736611F6AD8236A39F60249C3441A5FA,
+	FPSDisplay__ctor_m0B1B2DD1E7437715DA0BFB0AF80202D2A575E1E0,
 	RobotStepAnimator_Start_mDAFD58306A87F302A5A6FE04F67AD861961CB319,
 	RobotStepAnimator_SaveOriginalMaterials_mA59CF8DBEF3C939C97A009708602534B1379FC98,
 	RobotStepAnimator_OnMouseDown_m842619E008DBD4FCE6B0D6735DFE20694F4D895A,
@@ -568,7 +572,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	277,
+	279,
 	s_methodPointers,
 	0,
 	NULL,

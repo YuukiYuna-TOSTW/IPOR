@@ -9,6 +9,7 @@ Library: D:\Virtual Reality\IPOR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_bu
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Virtual Reality\IPOR\Temp\Burst
+--debug=Full
 --emit-version-symbol=True
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.6.5f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Virtual Reality\IPOR\Library\Burst
@@ -50,6 +51,7 @@ Library: D:\Virtual Reality\IPOR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_bu
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Virtual Reality\IPOR\Temp\Burst
+--debug=Full
 --emit-version-symbol=True
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.6.5f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Virtual Reality\IPOR\Library\Burst
@@ -81,6 +83,7 @@ Library: D:\Virtual Reality\IPOR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_bu
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Virtual Reality\IPOR\Temp\Burst
+--debug=Full
 --emit-version-symbol=True
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.6.5f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Virtual Reality\IPOR\Library\Burst
@@ -124,6 +127,7 @@ Library: D:\Virtual Reality\IPOR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_bu
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Virtual Reality\IPOR\Temp\Burst
+--debug=Full
 --emit-version-symbol=True
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.6.5f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Virtual Reality\IPOR\Library\Burst
@@ -142,6 +146,7 @@ Library: D:\Virtual Reality\IPOR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_bu
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Virtual Reality\IPOR\Temp\Burst
+--debug=Full
 --emit-version-symbol=True
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.6.5f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Virtual Reality\IPOR\Library\Burst
